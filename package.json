@@ -1,0 +1,16 @@
+{
+  "name": "twitter-app",
+  "version": "1.0.0",
+  "description": "This project is a simple shopping cart application. It's a single-page application that provides basic shopping functionalities such as listing products, adding them to the cart, and removing them from the cart.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "laravel-vite-plugin": "^1.0.4",
+    "vite": "^5.3.1"
+  }
+}
